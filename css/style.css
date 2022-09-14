@@ -1,0 +1,43 @@
+* {
+    font-family: 'Arial Narrow';
+    margin: 0;
+}
+#canvas {
+    border: 1px solid black;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    width: 20%;
+    height: 10rem;
+   
+}
+
+
+div {
+   
+    margin-top: 100px;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+h1 {
+    font-size: 15px;
+    margin: 0;
+    text-align: center;
+
+}
+.text {
+    font-weight: bold;
+    margin-bottom: 200px;
+}
+
+.paiement {
+    margin-top: 100px;
+}
+
+.date {
+    margin-top: 90px;
+}
+.signature {
+    font-weight: bold;
+    margin-bottom: 10%;
+}
